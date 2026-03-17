@@ -1,3 +1,4 @@
+![alt text](image.png)
 # 📊 Demand Forecasting using Time Series (Walmart Sales)
 
 A machine learning project focused on **forecasting future sales using time series analysis** based on the famous **Walmart M5 Forecasting dataset**.  
@@ -17,9 +18,14 @@ Accurate sales prediction helps companies optimize:
 
 This project analyzes **hierarchical sales data from Walmart stores** across the states of:
 
-- California
-- Texas
-- Wisconsin
+- **California**
+![alt text](<newplot (6).png>)
+
+- **Texas**
+![alt text](<newplot (7).png>)
+
+- **Wisconsin**
+![alt text](<newplot (8).png>)
 
 Using various **time series forecasting techniques**, the model predicts future product demand.
 
@@ -60,6 +66,8 @@ Visualization tools used:
 - **Matplotlib**
 - **Plotly**
 
+![alt text](<newplot (9).png>)
+
 ---
 
 # 🧠 Forecasting Models Used
@@ -68,15 +76,19 @@ Multiple forecasting models were implemented and compared.
 
 ### 1️⃣ Naive Forecasting
 Simple baseline model that assumes future values equal previous observations.
+![alt text](newplot.png)
 
 ### 2️⃣ Moving Average
 Smooths fluctuations to identify underlying trends.
+![alt text](<newplot (1).png>)
 
 ### 3️⃣ Holt Linear Trend
 Captures both **level and trend components** of time series.
+![alt text](<newplot (2).png>)
 
 ### 4️⃣ Exponential Smoothing
 Applies exponentially decreasing weights to past observations.
+![alt text](<newplot (3).png>)
 
 ### 5️⃣ ARIMA
 A powerful statistical model for time series forecasting using:
@@ -84,6 +96,7 @@ A powerful statistical model for time series forecasting using:
 - Auto Regression
 - Differencing
 - Moving Average
+![alt text](<newplot (4).png>)
 
 ### 6️⃣ Prophet
 A forecasting tool developed by Facebook designed for:
@@ -91,6 +104,7 @@ A forecasting tool developed by Facebook designed for:
 - Seasonality detection
 - Trend modeling
 - Holiday effects
+![alt text](<newplot (5).png>)
 
 ---
 

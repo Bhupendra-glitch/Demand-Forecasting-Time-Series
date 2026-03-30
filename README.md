@@ -160,6 +160,7 @@ Model Evaluation
 - Facebook Prophet
 - Scikit-Learn
 - Jupyter Notebook
+- Arima
 
 ---
 

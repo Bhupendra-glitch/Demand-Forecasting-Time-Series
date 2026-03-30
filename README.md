@@ -200,7 +200,7 @@ Demand forecasting models like this can be used in:
 - Business planning
 - Smart stock replenishment systems.
 
----
+----
 
 
 

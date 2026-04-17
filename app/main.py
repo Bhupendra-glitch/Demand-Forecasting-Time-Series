@@ -71,6 +71,6 @@ st.markdown("""
 """)
 
 # -------------------------------
-# ✅ Footer
+#  Footer
 # -------------------------------
 st.success("✅ Ready to explore! Use the sidebar to navigate.")

@@ -28,7 +28,7 @@ Welcome to your **AI-powered Demand Forecasting System** 🚀
 This application allows you to:
 
 - 📂 Upload any sales dataset
-- 🧠 Automatically generate insights
+- 🧠 Automatically generate Insights
 - 📊 Perform interactive EDA
 - 🤖 Forecast future demand
 - 🎯 Get business recommendations
